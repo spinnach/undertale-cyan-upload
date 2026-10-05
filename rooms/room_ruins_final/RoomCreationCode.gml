@@ -1,0 +1,1 @@
+BGM_Play(1, a_gaping_hole, true, -1, -1)

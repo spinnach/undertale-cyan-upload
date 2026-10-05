@@ -380,6 +380,7 @@
     {"id":{"name":"Item_GetArmor","path":"scripts/Item_GetArmor/Item_GetArmor.yy",},},
     {"id":{"name":"Phone_IsValid","path":"scripts/Phone_IsValid/Phone_IsValid.yy",},},
     {"id":{"name":"Phone_IsSlotValid","path":"scripts/Phone_IsSlotValid/Phone_IsSlotValid.yy",},},
+    {"id":{"name":"a_gaping_hole","path":"sounds/a_gaping_hole/a_gaping_hole.yy",},},
     {"id":{"name":"Phone_Update","path":"scripts/Phone_Update/Phone_Update.yy",},},
     {"id":{"name":"Phone_Get","path":"scripts/Phone_Get/Phone_Get.yy",},},
     {"id":{"name":"Phone_Set","path":"scripts/Phone_Set/Phone_Set.yy",},},

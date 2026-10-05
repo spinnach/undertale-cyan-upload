@@ -1,0 +1,1 @@
+text = "* (\"ruins local bridge\" is closed& until further notice){pause}{end}"

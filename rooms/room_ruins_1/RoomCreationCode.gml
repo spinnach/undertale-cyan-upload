@@ -1,0 +1,1 @@
+BGM_Play(1, ruins, true, -1, -1)

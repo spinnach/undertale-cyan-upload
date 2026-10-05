@@ -240,6 +240,7 @@
     {"name":"Item_GetArmor","order":33,"path":"scripts/Item_GetArmor/Item_GetArmor.yy",},
     {"name":"Phone_IsValid","order":1,"path":"scripts/Phone_IsValid/Phone_IsValid.yy",},
     {"name":"Phone_IsSlotValid","order":3,"path":"scripts/Phone_IsSlotValid/Phone_IsSlotValid.yy",},
+    {"name":"a_gaping_hole","order":1,"path":"sounds/a_gaping_hole/a_gaping_hole.yy",},
     {"name":"Phone_Update","order":5,"path":"scripts/Phone_Update/Phone_Update.yy",},
     {"name":"Phone_Get","order":7,"path":"scripts/Phone_Get/Phone_Get.yy",},
     {"name":"Phone_Set","order":9,"path":"scripts/Phone_Set/Phone_Set.yy",},

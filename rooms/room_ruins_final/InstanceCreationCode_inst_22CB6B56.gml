@@ -1,1 +1,1 @@
-text = "* (me like hole,&{sleep 10} you jump in hole to?){pause}{end}";
+text = "* (me like hole){pause}{clear}* (you jump in hole to?){pause}{end}";
