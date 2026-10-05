@@ -1,0 +1,1 @@
+text="* (EAST:{sleep 10} the RUINS){pause}{clear}* (WEST:{sleep 10} wall){pause}{clear}* ({sleep 10}.{sleep 10}.{sleep 10}.{sleep 10}){pause}{clear}* (Sincerely,{sleep 10} a sign.){pause}{end}";

@@ -1,0 +1,1 @@
+text="* (you know there& will be a long& journey ahead,){pause}{clear}* (it fills you with{sleep 50}.{sleep 10}.{sleep 10}.){pause}{clear}* (PATIENCE)"

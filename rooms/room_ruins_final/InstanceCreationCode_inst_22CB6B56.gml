@@ -1,0 +1,1 @@
+text = "* (me like hole,&{sleep 10} you jump in hole to?){pause}{end}";
