@@ -1,0 +1,1 @@
+text = "long ago,{sleep 10} lived humans,{sleep 10} and monsters{sleep 60}{clear}they lived,{sleep 10} they died,{sleep 10} they got sealed underground.{sleep 60}{clear}a long time after,{sleep 10} a child came looking for free pizza& and fell{sleep 10}.{sleep 10}.{sleep 10}.{sleep 10}."

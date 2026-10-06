@@ -1,0 +1,1 @@
+BGM_Play(1, finale_menu, true, -1, -1)

@@ -1,0 +1,1 @@
+BGM_Play(1, the_great_battle, true, -1, -1)
