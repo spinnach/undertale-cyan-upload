@@ -24,7 +24,7 @@ if(keyboard_check_pressed(vk_f2)){
 	game_restart();
 }
 
-if(keyboard_check_pressed(192)){
+if(keyboard_check_pressed(vk_f6)){
 	Console_SetVisible(!Console_IsVisible());
 }
 

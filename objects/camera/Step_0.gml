@@ -63,3 +63,4 @@ if(!instance_exists(target)){
 }
 camera_set_view_size(_camera,width/scale_x,height/scale_y);
 camera_set_view_angle(_camera,angle);
+
