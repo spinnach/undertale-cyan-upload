@@ -32,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_tobdog",
-    "path": "sprites/spr_tobdog/spr_tobdog.yy",
+    "name": "dunstbuns_idle",
+    "path": "sprites/dunstbuns_idle/dunstbuns_idle.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -8,5 +8,5 @@ target_angle = 0;
 
 hsp = 0;
 vsp = 0;
-accel = 0.2;
+accel = 0.1;
 max_speed = 5;

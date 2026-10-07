@@ -5,11 +5,11 @@ if Battle_GetTurnNumber() = 1
   timer++
   if timer == 10
   {
-    instance_create_layer(x, y, "Instances", battle_bullet_tobdog_dog)
+    instance_create_layer(x, y, "Instances", battle_bullet_dunstbunsdust)
   }
   if timer == 100
   {
-    instance_create_layer(x, y, "Instances", battle_bullet_tobdog_dog)
+    instance_create_layer(x, y, "Instances", battle_bullet_dunstbunsdust)
   }
   if timer >= 150 && timer <= 400 && timer%30==0
   {
